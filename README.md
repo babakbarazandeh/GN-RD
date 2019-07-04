@@ -6,13 +6,13 @@ In recent years,  Generative  Adversarial  Networks  (GANs) have drawn a lot of 
 # Summary of the proposed algorithm
 The proposed algorithm does not require any optimization on the discriminator network and only needs randomly generated discriminator to learn the underlying distribution of the data.
 <p align="center">
-  <img width="450" height="350" src="https://github.com/babakbarazandeh/GN-RD/blob/master/Algorithm.jpg">
+  <img width="400" height="350" src="https://github.com/babakbarazandeh/GN-RD/blob/master/Algorithm.jpg">
 </p>
  
 # Reuslts 
 Follwing figure shows the performance of the proposed GN-RD algorithm for learning generative networks to create samples from MNIST  datasets.
 <p align="center">
-  <img width="400" height="157" src="https://github.com/babakbarazandeh/GN-RD/blob/master/Results.jpg">
+  <img width="400" height="165" src="https://github.com/babakbarazandeh/GN-RD/blob/master/Results.jpg">
 </p> <br/>
 
 # Getting started
