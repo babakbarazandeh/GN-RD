@@ -15,7 +15,7 @@ In recent years,  Generative  Adversarial  Networks  (GANs) have drawn a lot of 
 </p> <br/>
 
 # Getting started
-After installing Tensorflow run Main.py
+After installing Tensorflow, run Main.py
 
 # Citation 
 @article{barazandeh2019training,<br/>
