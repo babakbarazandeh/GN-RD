@@ -12,7 +12,7 @@ The proposed algorithm does not require any optimization on the discriminator ne
 # Reuslts 
 Follwing figure shows the performance of the proposed GN-RD algorithm for learning generative networks to create samples from MNIST  datasets.
 <p align="center">
-  <img width="450" height="165" src="https://github.com/babakbarazandeh/GN-RD/blob/master/Results.jpg">
+  <img width="450" height="157" src="https://github.com/babakbarazandeh/GN-RD/blob/master/Results.jpg">
 </p> <br/>
 
 # Getting started
