@@ -9,9 +9,11 @@ In recent years,  Generative  Adversarial  Networks  (GANs) have drawn a lot of 
 </p>
  
 # Reuslts 
+
 <p align="center">
   <img width="450" height="165" src="https://github.com/babakbarazandeh/GN-RD/blob/master/Results.jpg">
 </p> <br/>
+
 # Getting started
 After installing Tensorflow run Main.py
 
