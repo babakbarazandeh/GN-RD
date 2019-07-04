@@ -1,5 +1,5 @@
 # GN-RD: Training generative networks using random discriminators
-Implementation code for the proposed Generative Adversarial Networks (GANs) using randomly generated discriminator, published inthe processing of 2019 Data Science Workshop (DSW) [Paper](https://arxiv.org/pdf/1904.09775.pdf).
+Implementation code for the proposed Generative Adversarial Networks (GANs) using randomly generated discriminator, published inthe processing of 2019 Data Science Workshop (DSW). [Link to Paper](https://arxiv.org/pdf/1904.09775.pdf)
 
 # Getting started
 After installing Tensorflow run Main.py
